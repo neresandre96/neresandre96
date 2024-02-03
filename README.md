@@ -12,8 +12,8 @@
 -- Feel free to reach out for collaborations or just a friendly chat about technology and innovation!
 
 <div>
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api?username=neresandre96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neresandre96&layout=compact&langs_count=6&theme=dark"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=neresandre96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neresandre96&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <div style="display: inline-block"><br>
