@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Andre Neres, a Brazilian development student.
 
-<!--
-**neresandre96/neresandre96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently diving deep into business software solutions and the development of a MMORPG. My journey involves not just coding, but also understanding the intricacies of what makes software truly impactful.
+🌱 My learning path is paved with the exploration of networks, data structures, server management, and design patterns. These are the pillars I believe will strengthen my foundation in this ever-evolving tech landscape.
+👯 I'm on the lookout to collaborate on projects that not only excite me but also challenge me to stretch my abilities. Whether it's a start-up venture or a community-driven project, if it sparks joy and growth, I'm in.
+📚 Beyond the code, I'm passionate about sharing knowledge and experiences. Engaging with the community and learning from each other is how we all grow stronger.
+🌟 Every line of code I write is a step towards mastering this craft. Join me on this journey of continuous learning and improvement.
 
-Here are some ideas to get you started:
+-- Feel free to reach out for collaborations or just a friendly chat about technology and innovation!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=neresandre96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neresandre96&layout=compact&langs_count=6&theme=dark"/>
+</div>
