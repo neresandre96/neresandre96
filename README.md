@@ -1,13 +1,10 @@
-# Hello, I'm Andre Neres, a Brazilian development student.
+# Hello, I'm Andre Neres, a Brazilian developer.
 
-🔭 I'm currently diving deep into business software solutions and the development of a MMORPG. My journey involves not just coding, but also understanding the intricacies of what makes software truly impactful.
+🔭 I'm currently diving deep into business software solutions. My journey involves understanding the intricacies of what makes software truly impactful. This is the pillar I believe will strengthen my foundation in this ever-evolving tech landscape.
 
-🌱 My learning path is paved with the exploration of networks, data structures, server management, and design patterns. These are the pillars I believe will strengthen my foundation in this ever-evolving tech landscape.
+👯 I'm on the lookout to collaborate on exiciting projects and also challenge me to stretch my abilities. If it sparks joy and growth, I'm in.
 
-👯 I'm on the lookout to collaborate on projects that not only excite me but also challenge me to stretch my abilities. Whether it's a start-up venture or a community-driven project, if it sparks joy and growth, I'm in.
-
-📚 Beyond the code, I'm passionate about sharing knowledge and experiences. Engaging with the community and learning from each other is how we all grow stronger.
-🌟 Every line of code I write is a step towards mastering this craft. Join me on this journey of continuous learning and improvement.
+📚 Beyond the code, I'm passionate about science.
 
 -- Feel free to reach out for collaborations or just a friendly chat about technology and innovation!
 
